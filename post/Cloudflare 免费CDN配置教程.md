@@ -1,11 +1,4 @@
----
-title: Cloudflare 免费CDN配置教程
-math: true
-tags:
-  - Cloudflare
-index_img: https://cos.royce2003.top/f909dd9a/index_img.webp-cover
-date: 2020-07-13 13:53:56
----
+
 # CloudFlare 免费CDN配置教程
 
 ### 一、几个简单问题
